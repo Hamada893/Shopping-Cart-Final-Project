@@ -10,7 +10,7 @@ export const products = [
     {
         id: 1,
         name: 'Majestic Monstera',
-        price: 101,
+        price: 100,
         image: imageProduct1,
         description: 'Mollit anim consectetur adipisicing aute pariatur ad mollit ad. Officia amet aliqua non laborum dolore sint sit eu sit sunt laboris. Dolor tempor ipsum culpa Lorem ipsum ullamco ullamco dolor sit do. Do proident quis ad laborum et proident laborum. Non voluptate eiusmod aute labore ea aute.',
         slug: 'hertfoid-upholstered-chair'
@@ -18,7 +18,7 @@ export const products = [
     {
         id: 2,
         name: 'Graceful Fiddle Leaf',
-        price: 151,
+        price: 150,
         image: imageProduct2,
         description: 'Mollit anim consectetur adipisicing aute pariatur ad mollit ad. Officia amet aliqua non laborum dolore sint sit eu sit sunt laboris. Dolor tempor ipsum culpa Lorem ipsum ullamco ullamco dolor sit do. Do proident quis ad laborum et proident laborum. Non voluptate eiusmod aute labore ea aute.',
         slug: 'bingdon-pholstered-chair-swivel'
@@ -26,7 +26,7 @@ export const products = [
     {
         id: 3,
         name: 'Trailing Devils Ivy',
-        price: 181,
+        price: 180,
         image: imageProduct3,
         description: 'Mollit anim consectetur adipisicing aute pariatur ad mollit ad. Officia amet aliqua non laborum dolore sint sit eu sit sunt laboris. Dolor tempor ipsum culpa Lorem ipsum ullamco ullamco dolor sit do. Do proident quis ad laborum et proident laborum. Non voluptate eiusmod aute labore ea aute.',
         slug: 'jeses-minimore-modern-style-etta'
@@ -34,7 +34,7 @@ export const products = [
     {
         id: 4,
         name: 'Modern Fern Frame',
-        price: 201,
+        price: 200,
         image: imageProduct4,
         description: 'Mollit anim consectetur adipisicing aute pariatur ad mollit ad. Officia amet aliqua non laborum dolore sint sit eu sit sunt laboris. Dolor tempor ipsum culpa Lorem ipsum ullamco ullamco dolor sit do. Do proident quis ad laborum et proident laborum. Non voluptate eiusmod aute labore ea aute.',
         slug: 'eses-minimore-modern-style-zakari'
@@ -42,7 +42,7 @@ export const products = [
     {
         id: 5,
         name: 'Petite Pothos',
-        price: 251,
+        price: 250,
         image: imageProduct5,
         description: 'Mollit anim consectetur adipisicing aute pariatur ad mollit ad. Officia amet aliqua non laborum dolore sint sit eu sit sunt laboris. Dolor tempor ipsum culpa Lorem ipsum ullamco ullamco dolor sit do. Do proident quis ad laborum et proident laborum. Non voluptate eiusmod aute labore ea aute.',
         slug: 'corrigan-studio-tufed-upholstered-wide-winback-armchair'
@@ -50,7 +50,7 @@ export const products = [
     {
         id: 6,
         name: 'Succulent Wanda',
-        price: 111,
+        price: 110,
         image: imageProduct6,
         description: 'Mollit anim consectetur adipisicing aute pariatur ad mollit ad. Officia amet aliqua non laborum dolore sint sit eu sit sunt laboris. Dolor tempor ipsum culpa Lorem ipsum ullamco ullamco dolor sit do. Do proident quis ad laborum et proident laborum. Non voluptate eiusmod aute labore ea aute.',
         slug: 'corrigan-studio-273-wide-armchair'
@@ -58,7 +58,7 @@ export const products = [
     {
         id: 7,
         name: 'Elegant Snake Plant',
-        price: 121,
+        price: 120,
         image: imageProduct7,
         description: 'Mollit anim consectetur adipisicing aute pariatur ad mollit ad. Officia amet aliqua non laborum dolore sint sit eu sit sunt laboris. Dolor tempor ipsum culpa Lorem ipsum ullamco ullamco dolor sit do. Do proident quis ad laborum et proident laborum. Non voluptate eiusmod aute labore ea aute.',
         slug: 'leston-wide-upholstered-fabric'
