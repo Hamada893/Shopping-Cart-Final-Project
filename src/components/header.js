@@ -19,6 +19,7 @@ const Header = () => {
   return (
     <header className='flex justify-between items-center mb-5 bg-white rounded-full'>
         <Link to="/" className='text-xl font-semibold px-5'>Home</Link>
+        <Link to="/" className='text-xl font-semibold px-5' onClick={() => document.getElementById('product-listing').scrollIntoView({ behavior: 'smooth' })}>Products</Link>
         <div className='w-10 h-10 bg-gray-100 rounded-full
         flex justify-center items-center relative' onClick={handleOpenTabCart}>
             <img src={iconCart} alt="" className='w-6'/>
