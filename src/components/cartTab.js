@@ -9,10 +9,7 @@ const CartTab = () => {
   const dispatch = useDispatch();
 
   // Calculate total price
-  const totalPrice = carts.reduce((total, item) => {
-    const product = item.productDetails; 
-    return total + (product?.price || 0) * item.quantity;
-  }, 0);
+  
 
   // Calculate total quantity
   const totalQuantity = carts.reduce((total, item) => total + item.quantity, 0);
