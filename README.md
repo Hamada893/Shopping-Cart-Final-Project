@@ -50,8 +50,4 @@ This **Shopping Cart Web Application** is the final project for IBM's _Developin
 ## 🤝 Acknowledgments
 A huge thank you to IBM and the instructors of the _Developing Front-End Apps with React_ course for their guidance and resources! 🙌
 
----
-
-### 🌐 Connect
-If you have any feedback or suggestions, feel free to reach out or open an issue. Let’s make this project even better together! 💬
 
